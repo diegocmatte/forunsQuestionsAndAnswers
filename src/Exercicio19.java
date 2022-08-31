@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class Exercicio19 {
 
+
+// https://pt.stackoverflow.com/questions/562940/variavel-tipo-string-n%c3%a3o-%c3%a9-lida-no-loop
+
     public static void main(String[] args) {
         Scanner leitorScanner = new Scanner(System.in);
         String nome;
